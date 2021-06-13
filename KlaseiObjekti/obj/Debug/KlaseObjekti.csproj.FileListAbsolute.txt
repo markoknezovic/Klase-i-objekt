@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\bin\Debug\KlaseObjekti.exe.config
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\bin\Debug\KlaseObjekti.exe
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\bin\Debug\KlaseObjekti.pdb
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\obj\Debug\KlaseObjekti.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\obj\Debug\KlaseObjekti.Form1.resources
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\obj\Debug\KlaseObjekti.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\obj\Debug\KlaseObjekti.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\obj\Debug\KlaseObjekti.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\obj\Debug\KlaseObjekti.exe
+C:\Users\Ante Ujcic\source\repos\KlaseObjekti\KlaseObjekti\obj\Debug\KlaseObjekti.pdb
